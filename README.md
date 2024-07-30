@@ -1,7 +1,7 @@
 # Hi my name is Ben!👋
 
 # 💫 About Me:
-Fullstack developer. Current working with JavaScript, React, Python and more.
+Fullstack developer. I am currently working with JavaScript, React, Node, Python, and more.
 
 
 ## 🌐 Socials:
